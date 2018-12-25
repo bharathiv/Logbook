@@ -1,0 +1,2 @@
+class TrackRecord < ApplicationRecord
+end
